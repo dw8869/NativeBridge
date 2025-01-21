@@ -1,0 +1,13 @@
+{
+  "name": "core.bridge",
+  "version": "0.0.1",
+  "displayName": "Core.Bridge",
+  "description": "Core Bridge Module",
+  "author": {
+    "name": "dlthdwn",
+    "email": "dlthdwn1@gmail.co.kr"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.1"
+  }
+}
